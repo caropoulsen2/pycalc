@@ -1,7 +1,9 @@
 def compute(expression):
 #blah
 #blah2
-    #blah4
+#blah4
+#blah3
+#blah5
     values = expression.split(' ')
     num0 = int(values[0])
     operator = values[1]
